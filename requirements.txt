@@ -1,0 +1,9 @@
+qiskit
+qiskit_aer
+qiskit_optimization
+qiskit_algorithms
+numpy==1.26.0
+scipy
+matplotlib
+networkx
+pylatexenc
